@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+   
+}
+body{
+    overflow-x: hidden;
+}
+nav{
+    height: 70px;
+    background-color: rgb(59, 59, 226);
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+nav ul{
+display:flex;
+justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin:0 20px;
+}
+.left{
+   font-size: 1.5rem;
+} 
+.right{
+    display: flex;
+    justify-content:space-between;
+}
+.iii1{
+height: 400px;
+width: 300px;
+padding: 10px;
+overflow: hidden;
+}
+.m1{
+   margin: 20px; 
+}
+.img0{
+    width:350px;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+.dd{
+    font-size: 3rem;
+    width:30%;
+    padding:30px;
+    
+}
+.yup{
+    padding: 5%;
+}
+.purple{
+    color:rgb(108, 108, 224);
+}
+#element{
+    color:rgb(108, 108, 224);
+}
+.img1{
+    height: 400px;
+    width: 350px;
+} 
+h4{
+    text-align: center;
+}
+.c1{
+    height: 500px;
+    width: 400px;
+}
+.c2{
+    margin-top: 120px;
+}
+input{
+    width:340px;
+}
+.yo{
+    display:flex ;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    flex-wrap: wrap;
+}
+.ii{
+    height: 80px;
+    width: 70px;
+}
+.uu{
+    height: 100px;
+    background-color:rgb(59, 59, 226) ;
+    color: white;
+    font-size: 1rem;
+}
+.ta{
+    text-align: center;
+    margin-top: 20px;
+}
